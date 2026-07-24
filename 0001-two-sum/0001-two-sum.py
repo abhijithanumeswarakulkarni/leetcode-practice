@@ -8,7 +8,7 @@ class Solution:
         #             return [i, j]
         # return [-1, -1] # Never reached according to desc
 
-        # Hmap
+        # Hmap - Time = O(n), space = O(n)
         hmap = {}
         for index, num in enumerate(nums):
             if target-num in hmap:
