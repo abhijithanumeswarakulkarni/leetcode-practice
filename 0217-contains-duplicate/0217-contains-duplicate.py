@@ -8,6 +8,14 @@ class Solution:
         #             return True
         # return False
 
+        # # Sort - Time = O(n*log(n)), space = O(1)
+        # nums.sort()
+        # n = len(nums)
+        # for i in range(n-1):
+        #     if nums[i] == nums[i+1]:
+        #         return True
+        # return False
+
         # # Hashmap - Time = O(n), space = O(n)
         # hmap = {} # Can use (from collections import Counter)
         # for num in nums:
@@ -20,10 +28,10 @@ class Solution:
         #         return True
         # return False
 
-        # Sort - Time = O(n*log(n)), space = O(1)
-        nums.sort()
-        n = len(nums)
-        for i in range(n-1):
-            if nums[i] == nums[i+1]:
+        # Optimised hmap - Same complexities as above but skips full iteration
+        hmap = {}
+        for num in nums:
+            if num in hmap:
                 return True
+            hmap[num] = 1
         return False
