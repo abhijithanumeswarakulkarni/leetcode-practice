@@ -1,6 +1,6 @@
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
-        # left + right array
+        # left + right array - Time = O(n), space = O(n)
         n = len(nums)
         left, right = [1] * n, [1] * n
         
