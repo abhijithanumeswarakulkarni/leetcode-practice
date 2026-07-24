@@ -16,22 +16,18 @@ class Solution:
         #         return True
         # return False
 
-        # # Hashmap - Time = O(n), space = O(n)
-        # hmap = {} # Can use (from collections import Counter)
+        # Hashmap - Time = O(n), space = O(n)
+        from collections import Counter
+        hmap = Counter(nums)
+        for key, val in hmap.items():
+            if val > 1:
+                return True
+        return False
+
+        # # Optimised hmap - Same complexities as above but skips full iteration
+        # hmap = {}
         # for num in nums:
         #     if num in hmap:
-        #         hmap[num] += 1
-        #     else:
-        #         hmap[num] = 1
-        # for key, val in hmap.items():
-        #     if val > 1:
         #         return True
+        #     hmap[num] = 1
         # return False
-
-        # Optimised hmap - Same complexities as above but skips full iteration
-        hmap = {}
-        for num in nums:
-            if num in hmap:
-                return True
-            hmap[num] = 1
-        return False
