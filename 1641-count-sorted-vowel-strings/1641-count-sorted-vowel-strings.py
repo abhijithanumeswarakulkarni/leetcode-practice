@@ -1,16 +1,33 @@
 class Solution:
     def countVowelStrings(self, n: int) -> int:
-        # Recursion
-        vowels = ['a', 'e', 'i', 'o', 'u']
-        def solve(k, prev):
+        # # Recursion
+        # vowels = ['a', 'e', 'i', 'o', 'u']
+        # def solve(k, prev):
+        #     if k == 0:
+        #         return 1
+        #     total = 0
+        #     for vowel in vowels:
+        #         if not prev:
+        #             total += solve(k-1, vowel)
+        #         elif vowel >= prev:
+        #             total += solve(k-1, vowel)
+        #     return total
+        
+        # return solve(n, '')
+
+        # DP
+        vowels_priority = [1, 2, 3, 4, 5]
+        def solve(k, prev_priority, dp):
             if k == 0:
                 return 1
-            total = 0
-            for vowel in vowels:
-                if not prev:
-                    total += solve(k-1, vowel)
-                elif vowel >= prev:
-                    total += solve(k-1, vowel)
-            return total
+            
+            if dp[k][prev_priority] == -1:
+                total_ways = 0
+                for vowel_prio in vowels_priority:
+                    if vowel_prio >= prev_priority:
+                        total_ways += solve(k-1, vowel_prio, dp)
+                dp[k][prev_priority] = total_ways
+            return dp[k][prev_priority]
         
-        return solve(n, '')
+        dp = [[-1] * 6 for _ in range(n+1)]
+        return solve(n, 0, dp)
