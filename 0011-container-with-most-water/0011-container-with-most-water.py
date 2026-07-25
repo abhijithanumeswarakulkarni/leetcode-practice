@@ -9,7 +9,7 @@ class Solution:
         #         max_area = max(max_area, curr_area)
         # return max_area
 
-        # 2 Pointers
+        # 2 Pointers - Time = O(n), space = O(1)
         left, right = 0, len(height)-1
         max_area = float('-inf')
         while left < right:
