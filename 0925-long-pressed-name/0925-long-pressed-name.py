@@ -1,6 +1,6 @@
 class Solution:
     def isLongPressedName(self, name: str, typed: str) -> bool:
-        # Brute force
+        # Brute force - time = O(n), space = O(1)
         i, j = 0, 0
         m = len(name)
         n = len(typed)
