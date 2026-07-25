@@ -100,4 +100,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1641-count-sorted-vowel-strings](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1641-count-sorted-vowel-strings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1641-count-sorted-vowel-strings](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1641-count-sorted-vowel-strings) |
+## Combinatorics
+|  |
+| ------- |
+| [1641-count-sorted-vowel-strings](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1641-count-sorted-vowel-strings) |
 <!---LeetCode Topics End-->
