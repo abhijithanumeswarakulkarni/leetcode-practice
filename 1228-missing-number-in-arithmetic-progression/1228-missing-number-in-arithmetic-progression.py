@@ -1,6 +1,6 @@
 class Solution:
     def missingNumber(self, arr: List[int]) -> int:
-        # Brute force
+        # Brute force - Time = O(n), space = O(1)
         # Edge case
         if len(set(arr)) == 1:
             return arr[0]
