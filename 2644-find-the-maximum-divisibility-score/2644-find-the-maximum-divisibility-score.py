@@ -1,6 +1,6 @@
 class Solution:
     def maxDivScore(self, nums: List[int], divisors: List[int]) -> int:
-        # Brute Force
+        # Brute Force - Time = O(m*n), space = O(m) - m = # of elements in divisors
         n = len(nums)
         divisibility_score = [0] * len(divisors)
         max_score = float('-inf')
