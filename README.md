@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0271-encode-and-decode-strings](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0271-encode-and-decode-strings) |
 | [0347-top-k-frequent-elements](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0739-daily-temperatures) |
+| [1228-missing-number-in-arithmetic-progression](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1228-missing-number-in-arithmetic-progression) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2644-find-the-maximum-divisibility-score) |
 ## Hash Table
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1228-missing-number-in-arithmetic-progression](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1228-missing-number-in-arithmetic-progression) |
 | [1641-count-sorted-vowel-strings](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1641-count-sorted-vowel-strings) |
 ## Dynamic Programming
 |  |
