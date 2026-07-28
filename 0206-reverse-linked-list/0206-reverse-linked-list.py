@@ -5,7 +5,7 @@
 #         self.next = next
 class Solution:
     def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        # Three pointer approach
+        # Three pointer approach - Time = O(n), space = O(1)
         # Edge case
         if not head or not head.next:
             return head
