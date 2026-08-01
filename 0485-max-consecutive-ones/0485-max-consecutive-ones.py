@@ -24,5 +24,6 @@ class Solution:
         #     res = max(res, (j-i))
         # return res
 
+        # Inbuilt funcs - Python is good
         nums_split = "".join(map(str, nums)).split('0')
         return len(max(nums_split, key=len))
