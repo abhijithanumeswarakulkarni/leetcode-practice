@@ -15,8 +15,10 @@ class Solution:
             else:
                 if nums[j] != 1:
                     res = max(res, (j-i))
-                    i = j
-                j += 1
+                    i = j+1
+                    j += 2
+                else:
+                    j += 1
         
         if nums[-1] == 1:
             res = max(res, (j-i))
