@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0141-linked-list-cycle) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0125-valid-palindrome) |
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0206-reverse-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
