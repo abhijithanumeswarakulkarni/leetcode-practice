@@ -11,7 +11,7 @@ class Solution:
         #             break
         # return res
 
-        # Sliding windpw
+        # Sliding window - Time = O(n), space = O(1)
         n = len(s)
         l, r = 0, 0
         res = 0
