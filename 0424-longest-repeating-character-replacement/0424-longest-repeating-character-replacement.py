@@ -18,7 +18,6 @@ class Solution:
                 max_freq = max(freq.values())
                 l += 1
             res = max(res, (r-l+1))
-            print(l, r, max_freq, res)
             r += 1
         
         return res
