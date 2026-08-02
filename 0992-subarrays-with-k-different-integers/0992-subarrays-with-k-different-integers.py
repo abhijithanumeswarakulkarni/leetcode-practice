@@ -27,7 +27,7 @@ class Solution:
                     if hmap[nums[l]] == 0:
                         del hmap[nums[l]]
                     l += 1
-                res += sum(hmap.values())
+                res += (r-l+1)
                 r += 1
             
             return res
