@@ -9,7 +9,7 @@ class Solution:
         #             res += 1
         # return res
 
-        # Sliding window - reconsier problem (https://youtu.be/7wYGbV_LsX4?si=y1r4WktrrfYz3pp7)
+        # Sliding window - reconsider problem (https://youtu.be/7wYGbV_LsX4?si=y1r4WktrrfYz3pp7)
         n = len(nums)
         def solve(goal):
             l, r = 0, 0
