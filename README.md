@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0347-top-k-frequent-elements](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0904-fruit-into-baskets) |
 | [0981-time-based-key-value-store](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0981-time-based-key-value-store) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0271-encode-and-decode-strings) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0925-long-pressed-name](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0925-long-pressed-name) |
 | [0981-time-based-key-value-store](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0981-time-based-key-value-store) |
 | [1154-day-of-the-year](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1154-day-of-the-year) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
