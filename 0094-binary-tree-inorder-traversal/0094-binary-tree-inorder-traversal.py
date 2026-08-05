@@ -27,13 +27,12 @@ class Solution:
             if node:
                 stack.append(node)
                 node = node.left
-                continue
-            
-            if not stack:
-                break
-            
-            node = stack.pop()
-            res.append(node.val)
-            node = node.right
-            
+            else:
+                if not stack:
+                    break
+                
+                node = stack.pop()
+                res.append(node.val)
+                node = node.right
+                
         return res
