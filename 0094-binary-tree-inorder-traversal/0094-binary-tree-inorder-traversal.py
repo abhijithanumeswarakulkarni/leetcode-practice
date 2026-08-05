@@ -20,9 +20,6 @@ class Solution:
         # return res
 
         # Iterative
-        if not root:
-            return []
-        
         stack = []
         node = root
         res = []
