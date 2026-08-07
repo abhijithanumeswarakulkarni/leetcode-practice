@@ -13,19 +13,21 @@ class Solution:
             
             left = height(node.left)
             right = height(node.right)
+            self.maxi = max(self.maxi, left+right)
 
             return 1 + max(left, right)
+        height(root)
         
-        def findMaxi(node):
-            if not node:
-                return
+        # def findMaxi(node):
+        #     if not node:
+        #         return
             
-            leftHeight = height(node.left)
-            rightHeight = height(node.right)
+        #     leftHeight = height(node.left)
+        #     rightHeight = height(node.right)
 
-            self.maxi = max(self.maxi, leftHeight+rightHeight)
-            findMaxi(node.left)
-            findMaxi(node.right)
+        #     self.maxi = max(self.maxi, leftHeight+rightHeight)
+        #     findMaxi(node.left)
+        #     findMaxi(node.right)
         
-        findMaxi(root)
+        # findMaxi(root)
         return self.maxi
