@@ -5,19 +5,19 @@
 #         self.left = left
 #         self.right = right
 class Solution:
+    res = True
     def isBalanced(self, root: Optional[TreeNode]) -> bool:
-        INF = float('inf')
-        
-        def maxHeight(node):
+        def height(node):
             if not node:
                 return 0
             
-            left = maxHeight(node.left)
-            right = maxHeight(node.right)
+            left = height(node.left)
+            right = height(node.right)
 
-            if abs(left-right) > 1:
-                return INF
+            if abs(right-left) > 1:
+                self.res = False
             
             return 1 + max(left, right)
-
-        return maxHeight(root) != INF
+        
+        height(root)
+        return self.res
