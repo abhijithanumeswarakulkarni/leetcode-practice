@@ -1,13 +1,11 @@
+import math
+
 class Solution:
     def smallestNumber(self, n: int, t: int) -> int:
-        res = None
         while True:
-            digits = [int(x) for x in str(n)]
-            prod = 1
-            for x in digits:
-                prod *= x
+            prod = math.prod(map(lambda x: int(x), str(n)))
             if prod % t == 0:
-                res = n
-                break
+                return n
             n += 1
-        return res
+        
+        return -1 # Never reached
