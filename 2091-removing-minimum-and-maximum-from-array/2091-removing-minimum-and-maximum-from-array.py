@@ -21,6 +21,7 @@ class Solution:
         # dp = [[-1] * (n+1) for _ in range(n+1)]
         # return solve(0, n, dp)
 
+        # Greedy
         mini = min(nums)
         maxi = max(nums)
         i, j = nums.index(mini), nums.index(maxi)
