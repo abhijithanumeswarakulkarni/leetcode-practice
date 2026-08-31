@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0163-missing-ranges](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0163-missing-ranges) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0217-contains-duplicate](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0217-contains-duplicate) |
