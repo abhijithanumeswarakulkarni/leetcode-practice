@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0238-product-of-array-except-self) |
+| [0244-shortest-word-distance-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0244-shortest-word-distance-ii) |
 | [0271-encode-and-decode-strings](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0271-encode-and-decode-strings) |
 | [0347-top-k-frequent-elements](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0485-max-consecutive-ones) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0242-valid-anagram) |
+| [0244-shortest-word-distance-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0244-shortest-word-distance-ii) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0347-top-k-frequent-elements](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0242-valid-anagram](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0242-valid-anagram) |
+| [0244-shortest-word-distance-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0244-shortest-word-distance-ii) |
 | [0271-encode-and-decode-strings](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0271-encode-and-decode-strings) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0155-min-stack) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0170-two-sum-iii-data-structure-design) |
+| [0244-shortest-word-distance-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0244-shortest-word-distance-ii) |
 | [0271-encode-and-decode-strings](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0271-encode-and-decode-strings) |
 | [0981-time-based-key-value-store](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0981-time-based-key-value-store) |
 ## Prefix Sum
@@ -167,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0170-two-sum-iii-data-structure-design) |
+| [0244-shortest-word-distance-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0244-shortest-word-distance-ii) |
 | [0567-permutation-in-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0567-permutation-in-string) |
 | [0925-long-pressed-name](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0925-long-pressed-name) |
 | [2465-number-of-distinct-averages](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2465-number-of-distinct-averages) |
