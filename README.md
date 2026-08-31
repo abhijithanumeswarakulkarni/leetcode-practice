@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0238-product-of-array-except-self) |
 | [0244-shortest-word-distance-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0244-shortest-word-distance-ii) |
+| [0245-shortest-word-distance-iii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0245-shortest-word-distance-iii) |
 | [0271-encode-and-decode-strings](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0271-encode-and-decode-strings) |
 | [0347-top-k-frequent-elements](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0485-max-consecutive-ones) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0242-valid-anagram](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0244-shortest-word-distance-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0244-shortest-word-distance-ii) |
+| [0245-shortest-word-distance-iii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0245-shortest-word-distance-iii) |
 | [0271-encode-and-decode-strings](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0271-encode-and-decode-strings) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
