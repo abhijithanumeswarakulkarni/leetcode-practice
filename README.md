@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0238-product-of-array-except-self) |
 | [0244-shortest-word-distance-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0244-shortest-word-distance-ii) |
 | [0245-shortest-word-distance-iii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0245-shortest-word-distance-iii) |
+| [0252-meeting-rooms](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0252-meeting-rooms) |
 | [0271-encode-and-decode-strings](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0271-encode-and-decode-strings) |
 | [0347-top-k-frequent-elements](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0485-max-consecutive-ones) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0242-valid-anagram) |
+| [0252-meeting-rooms](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0252-meeting-rooms) |
 | [0347-top-k-frequent-elements](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2229-check-if-an-array-is-consecutive](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2229-check-if-an-array-is-consecutive) |
@@ -333,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0229-majority-element-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0252-meeting-rooms](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0252-meeting-rooms) |
 <!---LeetCode Topics End-->
