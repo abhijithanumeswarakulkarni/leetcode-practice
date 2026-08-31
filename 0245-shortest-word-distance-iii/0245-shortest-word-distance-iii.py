@@ -26,7 +26,6 @@ class Solution:
                     mini = min(mini, abs(index - second))
                 first = index
             if word == word2:
-                print(first, index, second)
                 if first != None and index != first:
                     mini = min(mini, abs(index - first))
                 second = index
