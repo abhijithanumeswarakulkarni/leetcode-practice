@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0271-encode-and-decode-strings](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0271-encode-and-decode-strings) |
 | [0346-moving-average-from-data-stream](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0346-moving-average-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
+| [0422-valid-word-square](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0422-valid-word-square) |
 | [0485-max-consecutive-ones](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0739-daily-temperatures) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0074-search-a-2d-matrix) |
+| [0422-valid-word-square](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0422-valid-word-square) |
 ## Simulation
 |  |
 | ------- |
