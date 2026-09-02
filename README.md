@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0253-meeting-rooms-ii) |
 | [0256-paint-house](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0256-paint-house) |
 | [0271-encode-and-decode-strings](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0271-encode-and-decode-strings) |
+| [0283-move-zeroes](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0346-moving-average-from-data-stream](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0346-moving-average-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0170-two-sum-iii-data-structure-design](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0244-shortest-word-distance-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0244-shortest-word-distance-ii) |
 | [0253-meeting-rooms-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0253-meeting-rooms-ii) |
+| [0283-move-zeroes](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0567-permutation-in-string) |
