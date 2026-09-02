@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1228-missing-number-in-arithmetic-progression](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1228-missing-number-in-arithmetic-progression) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2229-check-if-an-array-is-consecutive](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2229-check-if-an-array-is-consecutive) |
 | [2465-number-of-distinct-averages](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2465-number-of-distinct-averages) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2229-check-if-an-array-is-consecutive](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2229-check-if-an-array-is-consecutive) |
 | [2465-number-of-distinct-averages](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2465-number-of-distinct-averages) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2229-check-if-an-array-is-consecutive](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2229-check-if-an-array-is-consecutive) |
 | [2465-number-of-distinct-averages](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2465-number-of-distinct-averages) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0567-permutation-in-string) |
 | [0925-long-pressed-name](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0925-long-pressed-name) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1768-merge-strings-alternately) |
 | [2465-number-of-distinct-averages](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2465-number-of-distinct-averages) |
 ## Binary Search
