@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1768-merge-strings-alternately) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2390-removing-stars-from-a-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2390-removing-stars-from-a-string) |
 | [2788-split-strings-by-separator](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2788-split-strings-by-separator) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0739-daily-temperatures) |
+| [2390-removing-stars-from-a-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2390-removing-stars-from-a-string) |
 ## Math
 |  |
 | ------- |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2390-removing-stars-from-a-string) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## Linked List
 |  |
