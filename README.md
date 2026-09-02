@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0877-stone-game) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0253-meeting-rooms-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
