@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1228-missing-number-in-arithmetic-progression](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1228-missing-number-in-arithmetic-progression) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2229-check-if-an-array-is-consecutive](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2229-check-if-an-array-is-consecutive) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0256-paint-house](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0256-paint-house) |
 | [0392-is-subsequence](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0877-stone-game) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1641-count-sorted-vowel-strings](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1641-count-sorted-vowel-strings) |
 ## Combinatorics
 |  |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Game Theory
 |  |
