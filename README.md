@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0256-paint-house](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0256-paint-house) |
 | [0392-is-subsequence](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0877-stone-game) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1641-count-sorted-vowel-strings](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1641-count-sorted-vowel-strings) |
 ## Combinatorics
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0545-boundary-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0545-boundary-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0545-boundary-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -407,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
