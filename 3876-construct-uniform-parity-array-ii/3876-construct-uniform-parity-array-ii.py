@@ -42,8 +42,8 @@ class Solution:
         for v in nums1:
             if v < mn:
                 mn = v
-            if v & 1:
+            if v % 2 != 0:
                 hasOdd = True
-        if mn & 1:
+        if mn % 2 != 0:
             return True
         return not hasOdd
