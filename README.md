@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0925-long-pressed-name) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1768-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2465-number-of-distinct-averages](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2465-number-of-distinct-averages) |
 ## Binary Search
 |  |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0206-reverse-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
