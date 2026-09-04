@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0877-stone-game](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1137-n-th-tribonacci-number](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1137-n-th-tribonacci-number) |
 | [1154-day-of-the-year](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1154-day-of-the-year) |
 | [1228-missing-number-in-arithmetic-progression](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1228-missing-number-in-arithmetic-progression) |
 | [1641-count-sorted-vowel-strings](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1641-count-sorted-vowel-strings) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0256-paint-house](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0256-paint-house) |
 | [0392-is-subsequence](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0877-stone-game) |
+| [1137-n-th-tribonacci-number](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1137-n-th-tribonacci-number) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1641-count-sorted-vowel-strings](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1641-count-sorted-vowel-strings) |
@@ -453,4 +455,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0374-guess-number-higher-or-lower) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
