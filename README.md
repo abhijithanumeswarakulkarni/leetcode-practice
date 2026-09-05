@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0739-daily-temperatures) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0011-container-with-most-water) |
 | [0253-meeting-rooms-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0253-meeting-rooms-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0334-increasing-triplet-subsequence) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Stack
 |  |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0198-house-robber) |
 | [0256-paint-house](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0256-paint-house) |
 | [0392-is-subsequence](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0392-is-subsequence) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1137-n-th-tribonacci-number) |
