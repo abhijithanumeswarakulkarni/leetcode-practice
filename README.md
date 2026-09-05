@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0877-stone-game](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0062-unique-paths) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0198-house-robber) |
 | [0256-paint-house](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0256-paint-house) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0062-unique-paths) |
 | [1641-count-sorted-vowel-strings](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1641-count-sorted-vowel-strings) |
 ## Monotonic Stack
 |  |
