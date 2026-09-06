@@ -12,18 +12,13 @@ class Solution:
         # return res
 
         # Stack
-        stack = [temperatures[-1]]
         n = len(temperatures)
+        stack = [(temperatures[-1], n-1)]
         res = [0] * n
         for i in range(n-2, -1, -1):
-            if temperatures[i] > stack[-1]:
-                poppedElements = []
-                while stack and temperatures[i] > stack[-1]:
-                    poppedElements.append(stack.pop())
-                if stack:
-                    res[i] = len(poppedElements) + 1
-                stack += poppedElements[::-1]
-            else:
-                res[i] = 1
-            stack.append(temperatures[i])
+            while stack and temperatures[i] >= stack[-1][0]:
+                stack.pop()
+            if stack:
+                res[i] = stack[-1][1] - i
+            stack.append((temperatures[i], i))
         return res
