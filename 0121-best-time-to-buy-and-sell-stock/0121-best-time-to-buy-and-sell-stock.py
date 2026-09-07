@@ -10,15 +10,14 @@ class Solution:
 
         # Sliding window
         n = len(prices)
-        # Edge case
-        if n == 1:
-            return 0
         l, r = 0, 1
-        maxi = prices[1] - prices[0] if prices[1] > prices[0] else 0
+        maxi = 0
         while r < n:
-            if l < r and prices[r] <= prices[l]:
+            while l < r and prices[r] <= prices[l]:
                 l += 1
-            else:
+            
+            if l < r:
                 maxi = max(maxi, prices[r] - prices[l])
-                r += 1
+            
+            r += 1
         return maxi
