@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0244-shortest-word-distance-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0244-shortest-word-distance-ii) |
 | [0246-strobogrammatic-number](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0246-strobogrammatic-number) |
+| [0266-palindrome-permutation](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0266-palindrome-permutation) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0347-top-k-frequent-elements](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0244-shortest-word-distance-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0244-shortest-word-distance-ii) |
 | [0245-shortest-word-distance-iii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0245-shortest-word-distance-iii) |
 | [0246-strobogrammatic-number](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0246-strobogrammatic-number) |
+| [0266-palindrome-permutation](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0266-palindrome-permutation) |
 | [0271-encode-and-decode-strings](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0271-encode-and-decode-strings) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0345-reverse-vowels-of-a-string) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0266-palindrome-permutation](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0266-palindrome-permutation) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search Tree
 |  |
