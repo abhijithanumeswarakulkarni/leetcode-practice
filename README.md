@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0746-min-cost-climbing-stairs) |
+| [0819-most-common-word](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0819-most-common-word) |
 | [0875-koko-eating-bananas](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0904-fruit-into-baskets) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0567-permutation-in-string) |
+| [0819-most-common-word](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0819-most-common-word) |
 | [0904-fruit-into-baskets](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0981-time-based-key-value-store](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0981-time-based-key-value-store) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0567-permutation-in-string) |
+| [0819-most-common-word](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0819-most-common-word) |
 | [0925-long-pressed-name](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0925-long-pressed-name) |
 | [0940-distinct-subsequences-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0940-distinct-subsequences-ii) |
 | [0981-time-based-key-value-store](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0981-time-based-key-value-store) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
+| [0819-most-common-word](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0819-most-common-word) |
 | [0992-subarrays-with-k-different-integers](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1657-determine-if-two-strings-are-close](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1657-determine-if-two-strings-are-close) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
