@@ -25,7 +25,6 @@ class Solution:
                     else:
                         frq[key] = 1
         
-        print(frq)
         sortedFrq = list(sorted(frq.items(), key=lambda x: -x[1]))
         for item in sortedFrq:
             if item[0] not in banned:
