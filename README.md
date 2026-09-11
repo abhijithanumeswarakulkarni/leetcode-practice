@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0819-most-common-word](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0819-most-common-word) |
+| [0821-shortest-distance-to-a-character](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0821-shortest-distance-to-a-character) |
 | [0875-koko-eating-bananas](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0904-fruit-into-baskets) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0567-permutation-in-string) |
 | [0819-most-common-word](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0819-most-common-word) |
+| [0821-shortest-distance-to-a-character](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0821-shortest-distance-to-a-character) |
 | [0830-positions-of-large-groups](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0830-positions-of-large-groups) |
 | [0925-long-pressed-name](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0925-long-pressed-name) |
 | [0940-distinct-subsequences-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0940-distinct-subsequences-ii) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0567-permutation-in-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0821-shortest-distance-to-a-character) |
 | [0925-long-pressed-name](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0925-long-pressed-name) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1768-merge-strings-alternately) |
