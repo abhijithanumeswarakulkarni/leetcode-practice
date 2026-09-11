@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2644-find-the-maximum-divisibility-score](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2644-find-the-maximum-divisibility-score) |
 | [2788-split-strings-by-separator](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2788-split-strings-by-separator) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3731-find-missing-elements) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2336-smallest-number-in-infinite-set](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2336-smallest-number-in-infinite-set) |
 | [2465-number-of-distinct-averages](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2465-number-of-distinct-averages) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3731-find-missing-elements) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0394-decode-string) |
+| [3483-unique-3-digit-even-numbers](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -497,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## DP on Trees
 |  |
 | ------- |
