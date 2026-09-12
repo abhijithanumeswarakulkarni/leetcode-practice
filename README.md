@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0904-fruit-into-baskets) |
+| [0929-unique-email-addresses](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0929-unique-email-addresses) |
 | [0930-binary-subarrays-with-sum](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1004-max-consecutive-ones-iii) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0904-fruit-into-baskets](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0904-fruit-into-baskets) |
+| [0929-unique-email-addresses](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0929-unique-email-addresses) |
 | [0930-binary-subarrays-with-sum](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0981-time-based-key-value-store](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0981-time-based-key-value-store) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-positions-of-large-groups](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0830-positions-of-large-groups) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0925-long-pressed-name](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0925-long-pressed-name) |
+| [0929-unique-email-addresses](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0929-unique-email-addresses) |
 | [0940-distinct-subsequences-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0940-distinct-subsequences-ii) |
 | [0981-time-based-key-value-store](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0981-time-based-key-value-store) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1071-greatest-common-divisor-of-strings) |
