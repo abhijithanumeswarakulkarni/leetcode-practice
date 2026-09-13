@@ -5,17 +5,18 @@ class Solution:
         temp = ""
         for x in s:
             if x == '(':
-                temp += x
+                if stack:
+                    temp += x
                 stack.append(x)
             else:
                 stack.pop()
-                temp += x
-            if not stack:
-                primitives.append(temp)
-                temp = ""
-
-        res = ""
-        for x in primitives:
-            k = len(x)
-            res += x[1:k-1]
-        return res
+                if stack:
+                    temp += x
+            
+        # print(temp)
+        # res = ""
+        # for x in primitives:
+        #     k = len(x)
+        #     res += x[1:k-1]
+        # return res
+        return temp
