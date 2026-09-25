@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0072-edit-distance) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0072-edit-distance) |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1021-remove-outermost-parentheses) |
 ## Geometry
 |  |
@@ -626,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0046-permutations) |
