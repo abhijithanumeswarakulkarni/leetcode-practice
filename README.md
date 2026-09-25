@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0151-reverse-words-in-a-string) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0079-word-search) |
 | [0422-valid-word-square](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0422-valid-word-square) |
 | [0835-image-overlap](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -496,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -633,4 +637,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
