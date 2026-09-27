@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0271-encode-and-decode-strings](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0271-encode-and-decode-strings) |
 | [0274-h-index](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0346-moving-average-from-data-stream](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0346-moving-average-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0213-house-robber-ii) |
 | [0256-paint-house](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0256-paint-house) |
+| [0322-coin-change](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0647-palindromic-substrings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0322-coin-change](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0322-coin-change) |
 | [0513-find-bottom-left-tree-value](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0513-find-bottom-left-tree-value) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -677,4 +680,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0005-longest-palindromic-substring) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
