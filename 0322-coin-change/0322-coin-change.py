@@ -1,7 +1,6 @@
 class Solution:
     def coinChange(self, coins: list[int], amount: int) -> int:
         n = len(coins)
-        
         def solve(index, remaining, dp):
             if remaining == 0:
                 return 0
