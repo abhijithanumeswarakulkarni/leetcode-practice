@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0091-decode-ways) |
