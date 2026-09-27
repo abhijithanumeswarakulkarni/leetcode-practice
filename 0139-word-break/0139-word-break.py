@@ -1,6 +1,7 @@
 class Solution:
     def wordBreak(self, s: str, wordDict: list[str]) -> bool:
         n = len(s)
+        wordDict = set(wordDict)
 
         def solve(index, temp, dp):
             if index == n:
