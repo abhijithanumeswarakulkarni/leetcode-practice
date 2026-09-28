@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0091-decode-ways) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0143-reorder-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0145-binary-tree-postorder-traversal) |
