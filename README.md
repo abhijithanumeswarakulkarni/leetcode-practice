@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0346-moving-average-from-data-stream](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0346-moving-average-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0422-valid-word-square](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0422-valid-word-square) |
 | [0485-max-consecutive-ones](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0647-palindromic-substrings](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0647-palindromic-substrings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0746-min-cost-climbing-stairs) |
@@ -702,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -710,4 +713,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0139-word-break) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
