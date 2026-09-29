@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1046-last-stone-weight) |
 | [1228-missing-number-in-arithmetic-progression](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1228-missing-number-in-arithmetic-progression) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1570-dot-product-of-two-sparse-vectors) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1002-find-common-characters](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1002-find-common-characters) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1570-dot-product-of-two-sparse-vectors) |
 | [1657-determine-if-two-strings-are-close](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1657-determine-if-two-strings-are-close) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0253-meeting-rooms-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1874-minimize-product-sum-of-two-arrays](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1874-minimize-product-sum-of-two-arrays) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2542-maximum-subsequence-score](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2542-maximum-subsequence-score) |
