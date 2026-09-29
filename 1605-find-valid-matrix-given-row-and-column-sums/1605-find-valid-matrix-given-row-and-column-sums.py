@@ -2,7 +2,7 @@ class Solution:
     def restoreMatrix(self, rowSum: list[int], colSum: list[int]) -> list[list[int]]:
         m = len(rowSum)
         n = len(colSum)
-        grid = [[-1] * n for _ in range(m)]
+        grid = [[0] * n for _ in range(m)]
         
         for i in range(m):
             for j in range(n):
