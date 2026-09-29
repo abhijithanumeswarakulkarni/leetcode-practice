@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1046-last-stone-weight) |
 | [1228-missing-number-in-arithmetic-progression](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1228-missing-number-in-arithmetic-progression) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1329-sort-the-matrix-diagonally](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1329-sort-the-matrix-diagonally) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1329-sort-the-matrix-diagonally](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1329-sort-the-matrix-diagonally) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1630-arithmetic-subarrays](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1630-arithmetic-subarrays) |
 | [1657-determine-if-two-strings-are-close](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1657-determine-if-two-strings-are-close) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0422-valid-word-square](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0422-valid-word-square) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0835-image-overlap](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0835-image-overlap) |
+| [1329-sort-the-matrix-diagonally](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1329-sort-the-matrix-diagonally) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3446-sort-matrix-by-diagonals](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3446-sort-matrix-by-diagonals) |
