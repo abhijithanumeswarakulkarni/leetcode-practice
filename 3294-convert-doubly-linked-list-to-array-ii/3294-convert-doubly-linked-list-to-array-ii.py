@@ -8,13 +8,13 @@ class Node:
 """
 class Solution:
     def toArray(self, node: 'Optional[Node]') -> List[int]:
-        prev, nxt = [], []
+        res = []
         curr = node
         while curr:
-            prev = [curr.val] + prev
+            res = [curr.val] + res
             curr = curr.prev
         curr = node.next
         while curr:
-            nxt.append(curr.val)
+            res.append(curr.val)
             curr = curr.next
-        return prev + nxt
+        return res
