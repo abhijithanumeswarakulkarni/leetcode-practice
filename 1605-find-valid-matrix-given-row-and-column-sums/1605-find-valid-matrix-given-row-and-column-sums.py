@@ -6,10 +6,7 @@ class Solution:
         
         for i in range(m):
             for j in range(n):
-                if rowSum[i] < colSum[j]:
-                    grid[i][j] = rowSum[i]
-                else:
-                    grid[i][j] = colSum[j]
+                grid[i][j] = min(rowSum[i], colSum[j])
                 rowSum[i] -= grid[i][j]
                 colSum[j] -= grid[i][j]
         
