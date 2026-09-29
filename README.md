@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3263-convert-doubly-linked-list-to-array-i](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3263-convert-doubly-linked-list-to-array-i) |
 | [3400-maximum-number-of-matching-indices-after-right-shifts](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3400-maximum-number-of-matching-indices-after-right-shifts) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3446-sort-matrix-by-diagonals](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3446-sort-matrix-by-diagonals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-sort-the-students-by-their-kth-score](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3446-sort-matrix-by-diagonals](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3446-sort-matrix-by-diagonals) |
 | [3731-find-missing-elements](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0835-image-overlap) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [3446-sort-matrix-by-diagonals](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3446-sort-matrix-by-diagonals) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
