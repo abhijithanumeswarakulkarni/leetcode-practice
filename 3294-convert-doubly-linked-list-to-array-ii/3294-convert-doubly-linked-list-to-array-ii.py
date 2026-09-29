@@ -9,12 +9,15 @@ class Node:
 class Solution:
     def toArray(self, node: 'Optional[Node]') -> List[int]:
         res = []
-        curr = node
-        while curr:
-            res = [curr.val] + res
-            curr = curr.prev
-        curr = node.next
-        while curr:
-            res.append(curr.val)
-            curr = curr.next
+        left = node
+        right = node.next
+        
+        while left or right:
+            if left:
+                res = [left.val] + res
+                left = left.prev
+            if right:
+                res.append(right.val)
+                right = right.next
+
         return res
