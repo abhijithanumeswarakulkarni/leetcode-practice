@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3731-find-missing-elements) |
+| [3865-reverse-k-subarrays](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3865-reverse-k-subarrays) |
 | [3875-construct-uniform-parity-array-i](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3903-smallest-stable-index-i) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2465-number-of-distinct-averages](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2465-number-of-distinct-averages) |
+| [3865-reverse-k-subarrays](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3865-reverse-k-subarrays) |
 ## Binary Search
 |  |
 | ------- |
