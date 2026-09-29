@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3731-find-missing-elements) |
+| [3763-maximum-total-sum-with-threshold-constraints](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3763-maximum-total-sum-with-threshold-constraints) |
 | [3860-unique-email-groups](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3860-unique-email-groups) |
 | [3865-reverse-k-subarrays](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3865-reverse-k-subarrays) |
 | [3875-construct-uniform-parity-array-i](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3875-construct-uniform-parity-array-i) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3446-sort-matrix-by-diagonals](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3446-sort-matrix-by-diagonals) |
 | [3731-find-missing-elements](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3731-find-missing-elements) |
+| [3763-maximum-total-sum-with-threshold-constraints](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3763-maximum-total-sum-with-threshold-constraints) |
 ## String
 |  |
 | ------- |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2336-smallest-number-in-infinite-set](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2542-maximum-subsequence-score) |
+| [3763-maximum-total-sum-with-threshold-constraints](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3763-maximum-total-sum-with-threshold-constraints) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2542-maximum-subsequence-score](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2542-maximum-subsequence-score) |
+| [3763-maximum-total-sum-with-threshold-constraints](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3763-maximum-total-sum-with-threshold-constraints) |
 ## Stack
 |  |
 | ------- |
