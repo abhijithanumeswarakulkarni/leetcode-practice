@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-arithmetic-subarrays](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1630-arithmetic-subarrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1861-rotating-the-box](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1861-rotating-the-box) |
 | [1874-minimize-product-sum-of-two-arrays](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1874-minimize-product-sum-of-two-arrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1228-missing-number-in-arithmetic-progression](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1228-missing-number-in-arithmetic-progression) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1641-count-sorted-vowel-strings](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1641-count-sorted-vowel-strings) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1409-queries-on-a-permutation-with-key) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2390-removing-stars-from-a-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2390-removing-stars-from-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2462-total-cost-to-hire-k-workers) |
@@ -566,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0394-decode-string) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sliding Window
 |  |
@@ -703,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0346-moving-average-from-data-stream](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0346-moving-average-from-data-stream) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Bit Manipulation
 |  |
 | ------- |
