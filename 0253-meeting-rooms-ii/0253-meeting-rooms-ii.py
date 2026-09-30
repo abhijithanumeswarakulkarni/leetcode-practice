@@ -1,18 +1,18 @@
 class Solution:
-    def minMeetingRooms(self, intervals: List[List[int]]) -> int:
-        # Hmap
-        sortedIntervals = list(sorted(intervals, key = lambda x: x[0]))
-        hmap = {}
-        count = 0
-        for interval in sortedIntervals:
-            isAvail = False
+    def minMeetingRooms(self, intervals: list[list[int]]) -> int:
+        intervals.sort()
+        count = 1
+        hmap = {count: intervals[0][1]}
+
+        for intvl in intervals[1:]:
+            room_exists = False
             for key in hmap:
-                if interval[0] >= hmap[key]:
-                    isAvail = True
-                    hmap[key] = interval[1]
+                if intvl[0] >= hmap[key]:
+                    hmap[key] = intvl[1]
+                    room_exists = True
                     break
-            if not isAvail:
+            if not room_exists:
                 count += 1
-                hmap[count] = interval[1]
+                hmap[count] = intvl[1]
         
         return count
