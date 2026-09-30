@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-sort-the-matrix-diagonally](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1329-sort-the-matrix-diagonally) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1441-build-an-array-with-stack-operations](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1441-build-an-array-with-stack-operations) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1570-dot-product-of-two-sparse-vectors) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1021-remove-outermost-parentheses) |
+| [1441-build-an-array-with-stack-operations](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1441-build-an-array-with-stack-operations) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1762-buildings-with-an-ocean-view](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1762-buildings-with-an-ocean-view) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1409-queries-on-a-permutation-with-key) |
+| [1441-build-an-array-with-stack-operations](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1441-build-an-array-with-stack-operations) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2326-spiral-matrix-iv](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2326-spiral-matrix-iv) |
