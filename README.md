@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-check-if-an-array-is-consecutive](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2229-check-if-an-array-is-consecutive) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2326-spiral-matrix-iv](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2326-spiral-matrix-iv) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2462-total-cost-to-hire-k-workers) |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1861-rotating-the-box) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2326-spiral-matrix-iv](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2326-spiral-matrix-iv) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3446-sort-matrix-by-diagonals](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3446-sort-matrix-by-diagonals) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1409-queries-on-a-permutation-with-key](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2326-spiral-matrix-iv](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2326-spiral-matrix-iv) |
 | [2390-removing-stars-from-a-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2390-removing-stars-from-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
@@ -563,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2326-spiral-matrix-iv](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2326-spiral-matrix-iv) |
 | [3263-convert-doubly-linked-list-to-array-i](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3263-convert-doubly-linked-list-to-array-i) |
 | [3294-convert-doubly-linked-list-to-array-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3294-convert-doubly-linked-list-to-array-ii) |
 ## Recursion
