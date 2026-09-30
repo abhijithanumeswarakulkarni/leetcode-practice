@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0422-valid-word-square](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0422-valid-word-square) |
+| [0435-non-overlapping-intervals](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0253-meeting-rooms-ii) |
 | [0274-h-index](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0435-non-overlapping-intervals) |
 | [0973-k-closest-points-to-origin](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1329-sort-the-matrix-diagonally](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1329-sort-the-matrix-diagonally) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0253-meeting-rooms-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0253-meeting-rooms-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0334-increasing-triplet-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0435-non-overlapping-intervals) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -504,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0647-palindromic-substrings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0746-min-cost-climbing-stairs) |
