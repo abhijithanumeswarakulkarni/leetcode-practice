@@ -1,11 +1,14 @@
 class Solution:
     def isValid(self, s: str) -> bool:
         stack = []
-        operators = {')': '(', '}': '{', ']': '['}
+        hmap = {'(': ')', '{': '}', '[': ']'}
+
         for x in s:
-            if x in operators.values():
+            if x == '(' or x == '{' or x == '[':
                 stack.append(x)
             else:
-                if not stack or stack.pop() != operators[x]:
+                if not stack or hmap[stack[-1]] != x:
                     return False
+                stack.pop()
+        
         return True if not stack else False
