@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0074-search-a-2d-matrix) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0253-meeting-rooms-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0253-meeting-rooms-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0334-increasing-triplet-subsequence) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0091-decode-ways) |
