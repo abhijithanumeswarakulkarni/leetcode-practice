@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0763-partition-labels) |
 | [0819-most-common-word](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0821-shortest-distance-to-a-character) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0253-meeting-rooms-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0763-partition-labels](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0763-partition-labels) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0807-max-increase-to-keep-city-skyline) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0394-decode-string) |
+| [0678-valid-parenthesis-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0901-online-stock-span) |
@@ -536,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0877-stone-game) |
@@ -828,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
