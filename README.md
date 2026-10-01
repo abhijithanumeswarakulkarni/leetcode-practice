@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1630-arithmetic-subarrays](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1630-arithmetic-subarrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1762-buildings-with-an-ocean-view](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1762-buildings-with-an-ocean-view) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1817-finding-the-users-active-minutes](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1817-finding-the-users-active-minutes) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-arithmetic-subarrays](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1630-arithmetic-subarrays) |
 | [1657-determine-if-two-strings-are-close](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1817-finding-the-users-active-minutes](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1817-finding-the-users-active-minutes) |
 | [1940-longest-common-subsequence-between-sorted-arrays](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1940-longest-common-subsequence-between-sorted-arrays) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1657-determine-if-two-strings-are-close](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1657-determine-if-two-strings-are-close) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1768-merge-strings-alternately](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0992-subarrays-with-k-different-integers](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1657-determine-if-two-strings-are-close](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1657-determine-if-two-strings-are-close) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1940-longest-common-subsequence-between-sorted-arrays](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1940-longest-common-subsequence-between-sorted-arrays) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -772,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0266-palindrome-permutation](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0266-palindrome-permutation) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
