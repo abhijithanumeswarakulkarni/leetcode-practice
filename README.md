@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1861-rotating-the-box) |
 | [1874-minimize-product-sum-of-two-arrays](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1874-minimize-product-sum-of-two-arrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1940-longest-common-subsequence-between-sorted-arrays](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1940-longest-common-subsequence-between-sorted-arrays) |
 | [2079-watering-plants](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2079-watering-plants) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1874-minimize-product-sum-of-two-arrays](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1874-minimize-product-sum-of-two-arrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2542-maximum-subsequence-score](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2542-maximum-subsequence-score) |
 | [3763-maximum-total-sum-with-threshold-constraints](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3763-maximum-total-sum-with-threshold-constraints) |
