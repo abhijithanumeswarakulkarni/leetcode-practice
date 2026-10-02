@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3760-maximum-substrings-with-distinct-start](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3846-total-distance-to-type-a-string-using-one-finger](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3846-total-distance-to-type-a-string-using-one-finger) |
 | [3860-unique-email-groups](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3860-unique-email-groups) |
+| [3884-first-matching-character-from-both-ends](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3884-first-matching-character-from-both-ends) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2697-lexicographically-smallest-palindrome](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3400-maximum-number-of-matching-indices-after-right-shifts](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3400-maximum-number-of-matching-indices-after-right-shifts) |
 | [3865-reverse-k-subarrays](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3865-reverse-k-subarrays) |
+| [3884-first-matching-character-from-both-ends](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3884-first-matching-character-from-both-ends) |
 ## Binary Search
 |  |
 | ------- |
