@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1940-longest-common-subsequence-between-sorted-arrays](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1940-longest-common-subsequence-between-sorted-arrays) |
+| [1980-find-unique-binary-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1980-find-unique-binary-string) |
 | [2079-watering-plants](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2079-watering-plants) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1817-finding-the-users-active-minutes](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1817-finding-the-users-active-minutes) |
 | [1940-longest-common-subsequence-between-sorted-arrays](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1940-longest-common-subsequence-between-sorted-arrays) |
+| [1980-find-unique-binary-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1980-find-unique-binary-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2103-rings-and-rods](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2103-rings-and-rods) |
 | [2229-check-if-an-array-is-consecutive](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2229-check-if-an-array-is-consecutive) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1768-merge-strings-alternately](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1980-find-unique-binary-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1980-find-unique-binary-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2103-rings-and-rods](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2103-rings-and-rods) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
@@ -899,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0131-palindrome-partitioning) |
 | [1079-letter-tile-possibilities](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1079-letter-tile-possibilities) |
+| [1980-find-unique-binary-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1980-find-unique-binary-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## K-D Tree
 |  |
