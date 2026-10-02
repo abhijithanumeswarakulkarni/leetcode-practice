@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2325-decode-the-message](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2325-decode-the-message) |
 | [2390-removing-stars-from-a-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2418-sort-the-people) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2788-split-strings-by-separator](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2788-split-strings-by-separator) |
 | [2864-maximum-odd-binary-number](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2864-maximum-odd-binary-number) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2465-number-of-distinct-averages](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2465-number-of-distinct-averages) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3400-maximum-number-of-matching-indices-after-right-shifts](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3400-maximum-number-of-matching-indices-after-right-shifts) |
 | [3865-reverse-k-subarrays](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3865-reverse-k-subarrays) |
 ## Binary Search
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2542-maximum-subsequence-score](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2542-maximum-subsequence-score) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2864-maximum-odd-binary-number](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2864-maximum-odd-binary-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3763-maximum-total-sum-with-threshold-constraints](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3763-maximum-total-sum-with-threshold-constraints) |
