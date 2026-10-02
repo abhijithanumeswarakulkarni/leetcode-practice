@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-number-of-senior-citizens](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2678-number-of-senior-citizens) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2788-split-strings-by-separator](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2788-split-strings-by-separator) |
+| [2810-faulty-keyboard](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2810-faulty-keyboard) |
 | [2864-maximum-odd-binary-number](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2864-maximum-odd-binary-number) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -642,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2326-spiral-matrix-iv](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2326-spiral-matrix-iv) |
 | [2390-removing-stars-from-a-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2390-removing-stars-from-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2810-faulty-keyboard](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2810-faulty-keyboard) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3400-maximum-number-of-matching-indices-after-right-shifts](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3400-maximum-number-of-matching-indices-after-right-shifts) |
 | [3498-reverse-degree-of-a-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3498-reverse-degree-of-a-string) |
