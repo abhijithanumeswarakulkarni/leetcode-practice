@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-finding-the-users-active-minutes](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1817-finding-the-users-active-minutes) |
 | [1940-longest-common-subsequence-between-sorted-arrays](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1940-longest-common-subsequence-between-sorted-arrays) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2103-rings-and-rods](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2103-rings-and-rods) |
 | [2229-check-if-an-array-is-consecutive](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2229-check-if-an-array-is-consecutive) |
 | [2325-decode-the-message](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2325-decode-the-message) |
 | [2336-smallest-number-in-infinite-set](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2336-smallest-number-in-infinite-set) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2103-rings-and-rods](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2103-rings-and-rods) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2325-decode-the-message](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2325-decode-the-message) |
