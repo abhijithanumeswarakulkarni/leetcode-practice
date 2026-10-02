@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2326-spiral-matrix-iv](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2326-spiral-matrix-iv) |
+| [2418-sort-the-people](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2418-sort-the-people) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2462-total-cost-to-hire-k-workers) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-check-if-an-array-is-consecutive](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2229-check-if-an-array-is-consecutive) |
 | [2325-decode-the-message](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2325-decode-the-message) |
 | [2336-smallest-number-in-infinite-set](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2336-smallest-number-in-infinite-set) |
+| [2418-sort-the-people](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2418-sort-the-people) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2465-number-of-distinct-averages](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2465-number-of-distinct-averages) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2229-check-if-an-array-is-consecutive](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2229-check-if-an-array-is-consecutive) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2418-sort-the-people](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2418-sort-the-people) |
 | [2465-number-of-distinct-averages](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2465-number-of-distinct-averages) |
 | [2542-maximum-subsequence-score](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2542-maximum-subsequence-score) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2325-decode-the-message](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2325-decode-the-message) |
 | [2390-removing-stars-from-a-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2390-removing-stars-from-a-string) |
+| [2418-sort-the-people](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2418-sort-the-people) |
 | [2788-split-strings-by-separator](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2788-split-strings-by-separator) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
