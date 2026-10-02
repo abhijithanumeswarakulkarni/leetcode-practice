@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2418-sort-the-people) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2465-number-of-distinct-averages](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2465-number-of-distinct-averages) |
+| [2716-minimize-string-length](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2716-minimize-string-length) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3483-unique-3-digit-even-numbers) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2418-sort-the-people) |
 | [2678-number-of-senior-citizens](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2678-number-of-senior-citizens) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2697-lexicographically-smallest-palindrome) |
+| [2716-minimize-string-length](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2716-minimize-string-length) |
 | [2788-split-strings-by-separator](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2788-split-strings-by-separator) |
 | [2810-faulty-keyboard](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2810-faulty-keyboard) |
 | [2864-maximum-odd-binary-number](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2864-maximum-odd-binary-number) |
