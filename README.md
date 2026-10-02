@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3498-reverse-degree-of-a-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3696-maximum-distance-between-unequal-words-in-array-i](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3696-maximum-distance-between-unequal-words-in-array-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -652,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2462-total-cost-to-hire-k-workers](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2810-faulty-keyboard](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2810-faulty-keyboard) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3400-maximum-number-of-matching-indices-after-right-shifts](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3400-maximum-number-of-matching-indices-after-right-shifts) |
 | [3498-reverse-degree-of-a-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
