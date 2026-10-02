@@ -3,8 +3,7 @@ class Solution:
         res = 0
 
         for detail in details:
-            age = int(detail[11:13])
-            if age > 60:
+            if int(detail[11]) > 6 or (int(detail[11]) == 6 and int(detail[12]) > 0):
                 res += 1
         
         return res
