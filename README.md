@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2465-number-of-distinct-averages](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2465-number-of-distinct-averages) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-maximum-subsequence-score](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2542-maximum-subsequence-score) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3446-sort-matrix-by-diagonals](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3446-sort-matrix-by-diagonals) |
 | [3731-find-missing-elements](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3731-find-missing-elements) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2418-sort-the-people) |
 | [2788-split-strings-by-separator](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2788-split-strings-by-separator) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3498-reverse-degree-of-a-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3498-reverse-degree-of-a-string) |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-longest-common-subsequence-between-sorted-arrays](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1940-longest-common-subsequence-between-sorted-arrays) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Quickselect
 |  |
 | ------- |
@@ -485,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2542-maximum-subsequence-score](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2542-maximum-subsequence-score) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3763-maximum-total-sum-with-threshold-constraints](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3763-maximum-total-sum-with-threshold-constraints) |
 ## Stack
 |  |
