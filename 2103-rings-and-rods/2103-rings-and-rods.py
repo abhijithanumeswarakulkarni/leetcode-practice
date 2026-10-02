@@ -16,5 +16,4 @@ class Solution:
             if len(rings) == 3:
                 res += 1
 
-        print(rods_rings)
         return res
