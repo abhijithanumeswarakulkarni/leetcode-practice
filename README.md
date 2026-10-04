@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3860-unique-email-groups](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3860-unique-email-groups) |
 | [3884-first-matching-character-from-both-ends](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3884-first-matching-character-from-both-ends) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3955-valid-binary-strings-with-cost-limit) |
+| [4006-count-valid-prefixes](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/4006-count-valid-prefixes) |
 | [4019-merge-close-characters-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/4019-merge-close-characters-ii) |
 ## Divide and Conquer
 |  |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [4006-count-valid-prefixes](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/4006-count-valid-prefixes) |
 ## Quickselect
 |  |
 | ------- |
