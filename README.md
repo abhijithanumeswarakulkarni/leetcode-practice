@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3760-maximum-substrings-with-distinct-start](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3846-total-distance-to-type-a-string-using-one-finger](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3846-total-distance-to-type-a-string-using-one-finger) |
 | [3860-unique-email-groups](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3860-unique-email-groups) |
+| [4019-merge-close-characters-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/4019-merge-close-characters-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3846-total-distance-to-type-a-string-using-one-finger](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3846-total-distance-to-type-a-string-using-one-finger) |
 | [3860-unique-email-groups](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3860-unique-email-groups) |
 | [3884-first-matching-character-from-both-ends](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3884-first-matching-character-from-both-ends) |
+| [4019-merge-close-characters-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/4019-merge-close-characters-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
