@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3446-sort-matrix-by-diagonals](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3446-sort-matrix-by-diagonals) |
 | [3731-find-missing-elements](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3731-find-missing-elements) |
 | [3763-maximum-total-sum-with-threshold-constraints](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3763-maximum-total-sum-with-threshold-constraints) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## String
 |  |
 | ------- |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3860-unique-email-groups](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3860-unique-email-groups) |
 | [3884-first-matching-character-from-both-ends](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3884-first-matching-character-from-both-ends) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3955-valid-binary-strings-with-cost-limit) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 | [4006-count-valid-prefixes](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/4006-count-valid-prefixes) |
 | [4019-merge-close-characters-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/4019-merge-close-characters-ii) |
 ## Divide and Conquer
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3865-reverse-k-subarrays](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3865-reverse-k-subarrays) |
 | [3884-first-matching-character-from-both-ends](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3884-first-matching-character-from-both-ends) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Binary Search
 |  |
 | ------- |
