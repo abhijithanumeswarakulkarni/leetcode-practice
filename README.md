@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-check-if-an-array-is-consecutive](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2229-check-if-an-array-is-consecutive) |
 | [2325-decode-the-message](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2325-decode-the-message) |
 | [2336-smallest-number-in-infinite-set](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2336-smallest-number-in-infinite-set) |
+| [2405-optimal-partition-of-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2405-optimal-partition-of-string) |
 | [2418-sort-the-people](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2418-sort-the-people) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2465-number-of-distinct-averages](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2465-number-of-distinct-averages) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2325-decode-the-message](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2325-decode-the-message) |
 | [2390-removing-stars-from-a-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2390-removing-stars-from-a-string) |
+| [2405-optimal-partition-of-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2405-optimal-partition-of-string) |
 | [2418-sort-the-people](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2418-sort-the-people) |
 | [2678-number-of-senior-citizens](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2678-number-of-senior-citizens) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2697-lexicographically-smallest-palindrome) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2405-optimal-partition-of-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2405-optimal-partition-of-string) |
 | [2542-maximum-subsequence-score](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2542-maximum-subsequence-score) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2864-maximum-odd-binary-number](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2864-maximum-odd-binary-number) |
