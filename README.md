@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0735-asteroid-collision) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0695-max-area-of-island) |
 ## Two Pointers
 |  |
 | ------- |
@@ -651,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0422-valid-word-square](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0422-valid-word-square) |
 | [0427-construct-quad-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0427-construct-quad-tree) |
+| [0695-max-area-of-island](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0695-max-area-of-island) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0835-image-overlap](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0835-image-overlap) |
 | [1329-sort-the-matrix-diagonally](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1329-sort-the-matrix-diagonally) |
@@ -786,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0545-boundary-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0695-max-area-of-island) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -824,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0322-coin-change) |
 | [0513-find-bottom-left-tree-value](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0513-find-bottom-left-tree-value) |
+| [0695-max-area-of-island](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0695-max-area-of-island) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
