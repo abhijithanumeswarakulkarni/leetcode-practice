@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3846-total-distance-to-type-a-string-using-one-finger](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3846-total-distance-to-type-a-string-using-one-finger) |
 | [3860-unique-email-groups](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3860-unique-email-groups) |
 | [3884-first-matching-character-from-both-ends](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3884-first-matching-character-from-both-ends) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3955-valid-binary-strings-with-cost-limit) |
 | [4019-merge-close-characters-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/4019-merge-close-characters-ii) |
 ## Divide and Conquer
 |  |
@@ -818,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3483-unique-3-digit-even-numbers) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## DP on Trees
 |  |
 | ------- |
@@ -847,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -935,6 +938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-letter-tile-possibilities](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1079-letter-tile-possibilities) |
 | [1980-find-unique-binary-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1980-find-unique-binary-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## K-D Tree
 |  |
 | ------- |
