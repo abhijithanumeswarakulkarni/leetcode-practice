@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-number-of-senior-citizens](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2678-number-of-senior-citizens) |
 | [2788-split-strings-by-separator](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2788-split-strings-by-separator) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3263-convert-doubly-linked-list-to-array-i](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3263-convert-doubly-linked-list-to-array-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3294-convert-doubly-linked-list-to-array-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3294-convert-doubly-linked-list-to-array-ii) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3032-count-numbers-with-unique-digits-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3032-count-numbers-with-unique-digits-ii) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3450-maximum-students-on-a-single-bench](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3450-maximum-students-on-a-single-bench) |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3483-unique-3-digit-even-numbers) |
