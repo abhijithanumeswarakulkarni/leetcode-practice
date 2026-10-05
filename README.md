@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-verifying-an-alien-dictionary](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0953-verifying-an-alien-dictionary) |
 | [0973-k-closest-points-to-origin](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0973-k-closest-points-to-origin) |
 | [0992-subarrays-with-k-different-integers](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0994-rotting-oranges) |
 | [1002-find-common-characters](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1046-last-stone-weight) |
@@ -661,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0695-max-area-of-island) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0835-image-overlap](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0835-image-overlap) |
+| [0994-rotting-oranges](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0994-rotting-oranges) |
 | [1329-sort-the-matrix-diagonally](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1329-sort-the-matrix-diagonally) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1861-rotating-the-box](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1861-rotating-the-box) |
@@ -838,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0513-find-bottom-left-tree-value) |
 | [0695-max-area-of-island](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0695-max-area-of-island) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Enumeration
