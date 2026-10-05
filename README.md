@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1329-sort-the-matrix-diagonally](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1329-sort-the-matrix-diagonally) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1441-build-an-array-with-stack-operations](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1441-build-an-array-with-stack-operations) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-letter-tile-possibilities](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1079-letter-tile-possibilities) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1512-number-of-good-pairs) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1570-dot-product-of-two-sparse-vectors) |
 | [1630-arithmetic-subarrays](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1630-arithmetic-subarrays) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1329-sort-the-matrix-diagonally](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1329-sort-the-matrix-diagonally) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1630-arithmetic-subarrays](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1630-arithmetic-subarrays) |
 | [1657-determine-if-two-strings-are-close](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1657-determine-if-two-strings-are-close) |
@@ -937,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0274-h-index) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Trie
 |  |
 | ------- |
