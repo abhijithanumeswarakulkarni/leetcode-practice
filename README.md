@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2644-find-the-maximum-divisibility-score](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2644-find-the-maximum-divisibility-score) |
 | [2678-number-of-senior-citizens](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2678-number-of-senior-citizens) |
 | [2788-split-strings-by-separator](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2788-split-strings-by-separator) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3263-convert-doubly-linked-list-to-array-i](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3263-convert-doubly-linked-list-to-array-i) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2465-number-of-distinct-averages](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2465-number-of-distinct-averages) |
 | [2716-minimize-string-length](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2716-minimize-string-length) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3032-count-numbers-with-unique-digits-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3032-count-numbers-with-unique-digits-ii) |
