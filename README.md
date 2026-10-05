@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3668-restore-finishing-order](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3668-restore-finishing-order) |
 | [3696-maximum-distance-between-unequal-words-in-array-i](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3696-maximum-distance-between-unequal-words-in-array-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3731-find-missing-elements) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3668-restore-finishing-order](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3760-maximum-substrings-with-distinct-start) |
