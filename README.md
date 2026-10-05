@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-minimize-string-length](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2716-minimize-string-length) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3032-count-numbers-with-unique-digits-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3032-count-numbers-with-unique-digits-ii) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3450-maximum-students-on-a-single-bench](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3450-maximum-students-on-a-single-bench) |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3483-unique-3-digit-even-numbers) |
@@ -610,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2864-maximum-odd-binary-number](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2864-maximum-odd-binary-number) |
+| [3032-count-numbers-with-unique-digits-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3032-count-numbers-with-unique-digits-ii) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -655,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1641-count-sorted-vowel-strings](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1641-count-sorted-vowel-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3032-count-numbers-with-unique-digits-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3032-count-numbers-with-unique-digits-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Combinatorics
 |  |
