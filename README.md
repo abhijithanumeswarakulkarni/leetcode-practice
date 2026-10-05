@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3032-count-numbers-with-unique-digits-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3032-count-numbers-with-unique-digits-ii) |
+| [3063-linked-list-frequency](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3063-linked-list-frequency) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3450-maximum-students-on-a-single-bench](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3450-maximum-students-on-a-single-bench) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3063-linked-list-frequency](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3063-linked-list-frequency) |
 | [4006-count-valid-prefixes](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/4006-count-valid-prefixes) |
 ## Quickselect
 |  |
@@ -736,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2326-spiral-matrix-iv](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2326-spiral-matrix-iv) |
+| [3063-linked-list-frequency](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3063-linked-list-frequency) |
 | [3263-convert-doubly-linked-list-to-array-i](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3263-convert-doubly-linked-list-to-array-i) |
 | [3294-convert-doubly-linked-list-to-array-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3294-convert-doubly-linked-list-to-array-ii) |
 ## Recursion
