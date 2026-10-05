@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0271-encode-and-decode-strings](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0271-encode-and-decode-strings) |
 | [0274-h-index](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0283-move-zeroes) |
+| [0286-walls-and-gates](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0286-walls-and-gates) |
 | [0300-longest-increasing-subsequence](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0334-increasing-triplet-subsequence) |
@@ -654,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0200-number-of-islands) |
+| [0286-walls-and-gates](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0286-walls-and-gates) |
 | [0422-valid-word-square](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0422-valid-word-square) |
 | [0427-construct-quad-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0427-construct-quad-tree) |
 | [0695-max-area-of-island](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0695-max-area-of-island) |
@@ -831,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0133-clone-graph](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0200-number-of-islands) |
+| [0286-walls-and-gates](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0286-walls-and-gates) |
 | [0322-coin-change](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0322-coin-change) |
 | [0513-find-bottom-left-tree-value](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0513-find-bottom-left-tree-value) |
 | [0695-max-area-of-island](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0695-max-area-of-island) |
