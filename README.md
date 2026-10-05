@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0695-max-area-of-island) |
 ## Two Pointers
@@ -656,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0286-walls-and-gates](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0286-walls-and-gates) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0417-pacific-atlantic-water-flow) |
@@ -790,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0133-clone-graph) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0200-number-of-islands) |
@@ -836,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0130-surrounded-regions](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0286-walls-and-gates](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0286-walls-and-gates) |
