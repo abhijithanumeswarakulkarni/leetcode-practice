@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1512-number-of-good-pairs) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1570-dot-product-of-two-sparse-vectors) |
 | [1630-arithmetic-subarrays](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1630-arithmetic-subarrays) |
+| [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1657-determine-if-two-strings-are-close](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0821-shortest-distance-to-a-character) |
 | [0925-long-pressed-name](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0925-long-pressed-name) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1570-dot-product-of-two-sparse-vectors) |
+| [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1768-merge-strings-alternately) |
 | [1861-rotating-the-box](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1861-rotating-the-box) |
@@ -824,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1490-clone-n-ary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1490-clone-n-ary-tree) |
+| [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
@@ -882,6 +885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Breadth-First Search
 |  |
@@ -1063,10 +1067,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Doubly-Linked List
 |  |
 | ------- |
