@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1490-clone-n-ary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1490-clone-n-ary-tree) |
 | [1512-number-of-good-pairs](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1512-number-of-good-pairs) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1570-dot-product-of-two-sparse-vectors) |
 | [1630-arithmetic-subarrays](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1630-arithmetic-subarrays) |
@@ -815,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1490-clone-n-ary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1490-clone-n-ary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
@@ -847,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1490-clone-n-ary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1490-clone-n-ary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -893,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0994-rotting-oranges) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1490-clone-n-ary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1490-clone-n-ary-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Enumeration
 |  |
