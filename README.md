@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1570-dot-product-of-two-sparse-vectors) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1630-arithmetic-subarrays](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1630-arithmetic-subarrays) |
+| [1656-design-an-ordered-stream](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1656-design-an-ordered-stream) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1762-buildings-with-an-ocean-view](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1762-buildings-with-an-ocean-view) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1570-dot-product-of-two-sparse-vectors) |
 | [1630-arithmetic-subarrays](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1630-arithmetic-subarrays) |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
+| [1656-design-an-ordered-stream](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1656-design-an-ordered-stream) |
 | [1657-determine-if-two-strings-are-close](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0981-time-based-key-value-store) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1570-dot-product-of-two-sparse-vectors) |
+| [1656-design-an-ordered-stream](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1656-design-an-ordered-stream) |
 | [2336-smallest-number-in-infinite-set](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2336-smallest-number-in-infinite-set) |
 ## Prefix Sum
 |  |
@@ -799,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0346-moving-average-from-data-stream](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0346-moving-average-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0901-online-stock-span) |
+| [1656-design-an-ordered-stream](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1656-design-an-ordered-stream) |
 ## Tree
 |  |
 | ------- |
