@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-positions-of-large-groups](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0830-positions-of-large-groups) |
 | [0856-score-of-parentheses](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0856-score-of-parentheses) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0925-long-pressed-name](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0925-long-pressed-name) |
 | [0929-unique-email-addresses](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0929-unique-email-addresses) |
 | [0940-distinct-subsequences-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0940-distinct-subsequences-ii) |
@@ -567,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0763-partition-labels) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0846-hand-of-straights](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0846-hand-of-straights) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0901-online-stock-span) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1441-build-an-array-with-stack-operations](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1441-build-an-array-with-stack-operations) |
@@ -1003,6 +1006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
