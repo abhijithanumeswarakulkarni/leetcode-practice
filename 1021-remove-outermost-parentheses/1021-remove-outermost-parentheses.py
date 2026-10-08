@@ -2,13 +2,13 @@ class Solution:
     def removeOuterParentheses(self, s: str) -> str:
         stack = []
         res = ""
-        for x in s:
-            if x == '(':
+        for char in s:
+            if char == '(':
                 if stack:
-                    res += x
-                stack.append(x)
+                    res += char
+                stack.append(char)
             else:
                 stack.pop()
                 if stack:
-                    res += x
+                    res += char
         return res
