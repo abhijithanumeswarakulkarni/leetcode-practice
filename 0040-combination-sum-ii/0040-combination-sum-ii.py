@@ -1,33 +1,26 @@
 class Solution:
     def combinationSum2(self, candidates: list[int], target: int) -> list[list[int]]:
-        n = len(candidates)
         res = []
-        total = sum(candidates)
-        
-        if total < target:
-            return res
-        
-        if total == target:
-            return [candidates]
+        n = len(candidates)
+        candidates.sort()
 
-        def solve(index, curr_set, curr_sum):
-            if curr_sum == target:
-                if curr_set not in res:
-                    res.append(curr_set)
+        def solve(index, curr_target, curr_elements):
+            if curr_target == 0:
+                if curr_elements not in res:
+                    res.append(curr_elements)
                 return
             
-            if index == n or curr_sum > target:
+            if curr_target < 0 or index == n:
                 return
             
             for i in range(index, n):
-                if i > index and candidates[index] == candidates[i]:
-                    continue
-                
-                if candidates[i] > target - curr_sum:
+                if curr_target - candidates[i] < 0:
                     break
                 
-                solve(i+1, curr_set + [candidates[i]], curr_sum + candidates[i])
+                if i > index and candidates[i] == candidates[i-1]:
+                    continue
+                
+                pick = solve(i + 1, curr_target - candidates[i], curr_elements + [candidates[i]])
         
-        candidates.sort()
-        solve(0, [], 0)
+        solve(0, target, [])
         return res
