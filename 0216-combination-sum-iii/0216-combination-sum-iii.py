@@ -5,9 +5,7 @@ class Solution:
         def solve(index, curr_sum, curr_elements):
             if curr_sum == n:
                 if index == k:
-                    curr_elements.sort()
-                    if curr_elements not in res:
-                        res.append(curr_elements)
+                    res.append(curr_elements)
                 return
             
             if curr_sum > n:
@@ -17,7 +15,7 @@ class Solution:
                 if curr_sum + num > n:
                     break
                 
-                if num in curr_elements:
+                if curr_elements and num <= curr_elements[-1]:
                     continue
                 
                 pick = solve(index + 1, curr_sum + num, curr_elements + [num])
