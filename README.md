@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0346-moving-average-from-data-stream](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0346-moving-average-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
+| [0406-queue-reconstruction-by-height](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0406-queue-reconstruction-by-height) |
 | [0416-partition-equal-subset-sum](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0422-valid-word-square](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0422-valid-word-square) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0253-meeting-rooms-ii) |
 | [0274-h-index](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
+| [0406-queue-reconstruction-by-height](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0435-non-overlapping-intervals) |
 | [0846-hand-of-straights](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0846-hand-of-straights) |
 | [0973-k-closest-points-to-origin](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0973-k-closest-points-to-origin) |
@@ -1122,6 +1124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0406-queue-reconstruction-by-height) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1409-queries-on-a-permutation-with-key) |
 ## Sqrt Decomposition
 |  |
@@ -1154,4 +1157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2979-most-expensive-item-that-can-not-be-bought](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2979-most-expensive-item-that-can-not-be-bought) |
+## Segment Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->
