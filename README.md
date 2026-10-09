@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1874-minimize-product-sum-of-two-arrays](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1874-minimize-product-sum-of-two-arrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1899-merge-triplets-to-form-target-triplet) |
+| [1929-concatenation-of-array](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1929-concatenation-of-array) |
 | [1940-longest-common-subsequence-between-sorted-arrays](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1940-longest-common-subsequence-between-sorted-arrays) |
 | [1980-find-unique-binary-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1980-find-unique-binary-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -754,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1441-build-an-array-with-stack-operations) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1929-concatenation-of-array](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1929-concatenation-of-array) |
 | [2079-watering-plants](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2079-watering-plants) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2161-partition-array-according-to-given-pivot) |
