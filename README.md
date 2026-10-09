@@ -647,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2769-find-the-maximum-achievable-number](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2769-find-the-maximum-achievable-number) |
 | [2864-maximum-odd-binary-number](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2864-maximum-odd-binary-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2965-find-missing-and-repeated-values) |
 | [2979-most-expensive-item-that-can-not-be-bought](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2979-most-expensive-item-that-can-not-be-bought) |
