@@ -1,19 +1,26 @@
 class Solution:
-    def combinationSum3(self, k: int, n: int) -> List[List[int]]:
+    def combinationSum3(self, k: int, n: int) -> list[list[int]]:
         res = []
-        def solve(k, n, currEle):
-            if n == 0 and k == 0:
-                sortedCurrEle = list(sorted(currEle))
-                if sortedCurrEle and sortedCurrEle not in res:
-                    res.append(sortedCurrEle)
+
+        def solve(index, curr_sum, curr_elements):
+            if curr_sum == n:
+                if index == k:
+                    curr_elements.sort()
+                    if curr_elements not in res:
+                        res.append(curr_elements)
                 return
             
-            if k < 0:
+            if curr_sum > n:
                 return
             
-            for i in range(1, 10):
-                if i not in currEle:
-                    solve(k-1, n-i, currEle + [i])
-        
-        solve(k, n, [])
+            for num in range(1, 10):
+                if curr_sum + num > n:
+                    break
+                
+                if num in curr_elements:
+                    continue
+                
+                pick = solve(index + 1, curr_sum + num, curr_elements + [num])
+            
+        solve(0, 0, [])
         return res
