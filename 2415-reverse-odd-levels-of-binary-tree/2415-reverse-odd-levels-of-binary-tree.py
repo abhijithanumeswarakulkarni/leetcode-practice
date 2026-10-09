@@ -13,22 +13,18 @@ class Solution:
                 return
             
             if level in levels:
-                levels[level].append(node.val)
+                levels[level].append(node)
             else:
-                levels[level] = [node.val]
+                levels[level] = [node]
+            
+            num_nodes = len(levels[level])
+            if level % 2 != 0 and num_nodes == 2 ** level:
+                nodes = levels[level]
+                for index in range(num_nodes//2):
+                    nodes[index].val, nodes[num_nodes - index - 1].val = nodes[num_nodes - index - 1].val, nodes[index].val
             
             traverse(node.left, level + 1)
             traverse(node.right, level + 1)
         
-        def update(node, level):
-            if not node:
-                return
-            
-            if level % 2 != 0:
-                node.val = levels[level].pop()
-            update(node.left, level + 1)
-            update(node.right, level + 1)
-        
         traverse(root, 0)
-        update(root, 0)
         return root
