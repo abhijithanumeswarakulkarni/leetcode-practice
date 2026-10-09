@@ -5,19 +5,18 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def __init__(self):
-        self.res = 0
-
     def sumEvenGrandparent(self, root: TreeNode | None) -> int:
+        total = 0
         def traverse(node, parent, grand_parent):
+            nonlocal total
             if not node:
                 return
             
             if grand_parent and grand_parent % 2 == 0:
-                self.res += node.val
+                total += node.val
             
             traverse(node.left, node.val, parent)
             traverse(node.right, node.val, parent)
 
         traverse(root, None, None)
-        return self.res
+        return total
