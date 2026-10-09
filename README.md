@@ -868,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [3831-median-of-a-binary-search-tree-level](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3831-median-of-a-binary-search-tree-level) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -902,6 +903,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1490-clone-n-ary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1490-clone-n-ary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [3831-median-of-a-binary-search-tree-level](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3831-median-of-a-binary-search-tree-level) |
 ## Binary Tree
 |  |
 | ------- |
@@ -931,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [3831-median-of-a-binary-search-tree-level](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3831-median-of-a-binary-search-tree-level) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -955,6 +958,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1490-clone-n-ary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1490-clone-n-ary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3831-median-of-a-binary-search-tree-level](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3831-median-of-a-binary-search-tree-level) |
 ## Enumeration
 |  |
 | ------- |
@@ -1000,6 +1004,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0703-kth-largest-element-in-a-stream) |
+| [3831-median-of-a-binary-search-tree-level](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3831-median-of-a-binary-search-tree-level) |
 ## Euclidean Algorithm
 |  |
 | ------- |
