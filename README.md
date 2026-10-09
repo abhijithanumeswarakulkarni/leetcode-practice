@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3865-reverse-k-subarrays](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3865-reverse-k-subarrays) |
 | [3875-construct-uniform-parity-array-i](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -737,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3446-sort-matrix-by-diagonals](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3446-sort-matrix-by-diagonals) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Simulation
 |  |
 | ------- |
@@ -1125,6 +1127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0207-course-schedule) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Topological Sort
 |  |
 | ------- |
