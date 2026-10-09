@@ -10,7 +10,9 @@ class Solution:
                 chars_encountered.remove(s[left])
                 left += 1
             
-            max_len = max(max_len, (right - left + 1))
+            curr_len = (right - left + 1)
+            if curr_len > max_len:
+                max_len = curr_len
             chars_encountered.add(s[right])
             right += 1
         
