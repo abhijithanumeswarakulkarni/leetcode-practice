@@ -1,23 +1,22 @@
-class Solution:
-    def minEatingSpeed(self, piles: List[int], h: int) -> int:
-        n = len(piles)
-        piles.sort()
-        lo, hi = 1, piles[-1]
-        mini = -1
+import math
 
-        while lo <= hi:
-            mid = (lo + hi) // 2
-            hLeft = h
-            i = 0
-            while i < n:
-                hLeft -= math.ceil(piles[i] / mid)
-                if hLeft < 0:
+class Solution:
+    def minEatingSpeed(self, piles: list[int], h: int) -> int:
+        left, right = 1, max(piles)
+
+        while left < right:
+            k = (left + right) // 2
+            can_eat = True
+            h_remaining = h
+            for pile in piles:
+                h_needed = math.ceil(pile / k)
+                h_remaining -= h_needed
+                if h_remaining < 0:
+                    can_eat = False
                     break
-                i += 1
-            if i == n:
-                mini = mid
-                hi = mid-1
+            if can_eat:
+                right = k
             else:
-                lo = mid + 1
+                left = k + 1
         
-        return mini
+        return left
