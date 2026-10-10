@@ -19,7 +19,6 @@ class Solution:
                 i += 1
             else:
                 j += 1
-        print(i, j, total_len)
 
         if total_len % 2 == 0:
             if i < m and j < n:
