@@ -1,6 +1,6 @@
 class Solution:
     def longestConsecutive(self, nums: list[int]) -> int:
-        # Time = O(n^2)
+        # Time = O(n)
         nums_set = set(nums)
         longest = 0
         visited = set()
