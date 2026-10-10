@@ -12,6 +12,7 @@ class Solution:
         #     k -= 1
         
         # return res
+        # Option 2 - Time = O(n*log(n)), space = O(n)
         sorted_frq = list(sorted(frq.items(), key = lambda item: item[1], reverse = True))
         res = list(map(lambda item: item[0], sorted_frq[:k]))
         return res
