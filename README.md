@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1656-design-an-ordered-stream](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1656-design-an-ordered-stream) |
 | [1657-determine-if-two-strings-are-close](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1657-determine-if-two-strings-are-close) |
+| [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1676-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -884,6 +885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1490-clone-n-ary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1490-clone-n-ary-tree) |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
+| [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1676-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [3831-median-of-a-binary-search-tree-level](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3831-median-of-a-binary-search-tree-level) |
@@ -921,6 +923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1490-clone-n-ary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1490-clone-n-ary-tree) |
+| [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1676-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [3831-median-of-a-binary-search-tree-level](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3831-median-of-a-binary-search-tree-level) |
 ## Binary Tree
@@ -951,6 +954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
+| [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1676-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [3831-median-of-a-binary-search-tree-level](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3831-median-of-a-binary-search-tree-level) |
@@ -1146,11 +1150,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
+| [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1676-lowest-common-ancestor-of-a-binary-tree-iv) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
+| [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1676-lowest-common-ancestor-of-a-binary-tree-iv) |
 ## Doubly-Linked List
 |  |
 | ------- |
