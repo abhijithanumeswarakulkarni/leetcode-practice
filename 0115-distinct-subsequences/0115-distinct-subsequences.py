@@ -3,19 +3,21 @@ class Solution:
         n = len(s)
         k = len(t)
         
-        dp = [[0] * (k + 1) for _ in range(n+1)]
-        for i in range(n+1):
-            dp[i][k] = 1
+        next_dp = [0] * (k + 1)
+        next_dp[-1] = 1
         
         for i in range(n-1, -1, -1):
+            curr_dp = [0] * (k + 1)
+            curr_dp[-1] = 1
             for j in range(k-1, -1, -1):
                 pick = 0
                 if s[i] == t[j]:
-                    pick = dp[i + 1][j + 1]
-                not_pick = dp[i + 1][j]
-                dp[i][j] = pick + not_pick
+                    pick = next_dp[j + 1]
+                not_pick = next_dp[j]
+                curr_dp[j] = pick + not_pick
+            next_dp = curr_dp
         
-        return dp[0][0]
+        return next_dp[0]
         
 
 
