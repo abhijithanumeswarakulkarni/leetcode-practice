@@ -2,23 +2,20 @@ class Solution:
     def numDistinct(self, s: str, t: str) -> int:
         n = len(s)
         k = len(t)
-
-        def solve(i, j, dp):
-            if j == k:
-                return 1
-            
-            if i == n:
-                return 0
-            
-            if dp[i][j] == -1:
+        
+        dp = [[0] * (k + 1) for _ in range(n+1)]
+        for i in range(n+1):
+            dp[i][k] = 1
+        
+        for i in range(n-1, -1, -1):
+            for j in range(k-1, -1, -1):
                 pick = 0
                 if s[i] == t[j]:
-                    pick = solve(i + 1, j + 1, dp)
-                not_pick = solve(i + 1, j, dp)
-            
+                    pick = dp[i + 1][j + 1]
+                not_pick = dp[i + 1][j]
                 dp[i][j] = pick + not_pick
-            
-            return dp[i][j]
         
-        dp = [[-1] * k for _ in range(n)]
-        return solve(0, 0, dp)
+        return dp[0][0]
+        
+
+
