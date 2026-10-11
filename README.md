@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1929-concatenation-of-array](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1929-concatenation-of-array) |
 | [1940-longest-common-subsequence-between-sorted-arrays](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1940-longest-common-subsequence-between-sorted-arrays) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1980-find-unique-binary-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1980-find-unique-binary-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2079-watering-plants](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2079-watering-plants) |
@@ -641,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1762-buildings-with-an-ocean-view](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1762-buildings-with-an-ocean-view) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2390-removing-stars-from-a-string) |
 ## Math
@@ -736,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0901-online-stock-span) |
 | [1762-buildings-with-an-ocean-view](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1762-buildings-with-an-ocean-view) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Matrix
 |  |
 | ------- |
