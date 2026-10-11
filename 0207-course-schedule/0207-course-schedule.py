@@ -1,42 +1,34 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: list[list[int]]) -> bool:
-        adj_matrix = [[0] * numCourses for _ in range(numCourses)]
-        inbound = {}
-        starts = []
+        in_degree = {}
+        adj = [[0] * (numCourses) for _ in range(numCourses)]
         
         for a, b in prerequisites:
-            adj_matrix[b][a] = 1
-            if a in inbound:
-                inbound[a] += 1
+            adj[b][a] = 1
+            if a in in_degree:
+                in_degree[a] += 1
             else:
-                inbound[a] = 1
-        
+                in_degree[a] = 1
+                
+        queue = deque()
         for course in range(numCourses):
-            if course not in inbound:
-                starts.append(course)
-        
-        if len(inbound) == 0:
-            return True
-
-        if len(starts) == 0:
-            return False
+            if course not in in_degree:
+                queue.append(course)
         
         visited = [False] * numCourses
-        for start in starts:
-            queue = [start]
+        while queue:
+            course = queue.popleft()
+            visited[course] = True
 
-            while queue:
-                last = queue.pop(0)
-                visited[last] = True
-                for course, value in enumerate(adj_matrix[last]):
-                    if value == 1 and not visited[course]:
-                        inbound[course] -= 1
-                        if inbound[course] == 0:
-                            queue.append(course)
-            
-        res = visited[0]
+            for dep_course, value in enumerate(adj[course]):
+                if value:
+                    in_degree[dep_course] -= 1
+                    
+                    if in_degree[dep_course] == 0:
+                        queue.append(dep_course)
         
-        for visit in visited[1:]:
-            res = res and visit
+        for visit in visited:
+            if not visit:
+                return False
         
-        return res
+        return True
