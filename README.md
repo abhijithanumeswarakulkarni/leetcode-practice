@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1929-concatenation-of-array) |
 | [1940-longest-common-subsequence-between-sorted-arrays](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1940-longest-common-subsequence-between-sorted-arrays) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1980-find-unique-binary-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1980-find-unique-binary-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2079-watering-plants](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2079-watering-plants) |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0695-max-area-of-island) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Two Pointers
 |  |
 | ------- |
@@ -593,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Greedy
@@ -770,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-sort-the-matrix-diagonally](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1329-sort-the-matrix-diagonally) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1861-rotating-the-box](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1861-rotating-the-box) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2326-spiral-matrix-iv](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2326-spiral-matrix-iv) |
@@ -936,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1490-clone-n-ary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1490-clone-n-ary-tree) |
 | [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1676-lowest-common-ancestor-of-a-binary-tree-iv) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [3831-median-of-a-binary-search-tree-level](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3831-median-of-a-binary-search-tree-level) |
 ## Binary Tree
@@ -993,6 +998,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1490-clone-n-ary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1490-clone-n-ary-tree) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3831-median-of-a-binary-search-tree-level](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3831-median-of-a-binary-search-tree-level) |
