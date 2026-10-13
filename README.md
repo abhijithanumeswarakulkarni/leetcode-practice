@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1409-queries-on-a-permutation-with-key](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1441-build-an-array-with-stack-operations](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1441-build-an-array-with-stack-operations) |
+| [1478-allocate-mailboxes](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1478-allocate-mailboxes) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1512-number-of-good-pairs](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1512-number-of-good-pairs) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1329-sort-the-matrix-diagonally](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1329-sort-the-matrix-diagonally) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1478-allocate-mailboxes](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1478-allocate-mailboxes) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1630-arithmetic-subarrays](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1630-arithmetic-subarrays) |
 | [1657-determine-if-two-strings-are-close](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1657-determine-if-two-strings-are-close) |
@@ -678,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1154-day-of-the-year) |
 | [1180-count-substrings-with-only-one-distinct-letter](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1180-count-substrings-with-only-one-distinct-letter) |
 | [1228-missing-number-in-arithmetic-progression](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1228-missing-number-in-arithmetic-progression) |
+| [1478-allocate-mailboxes](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1478-allocate-mailboxes) |
 | [1512-number-of-good-pairs](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1512-number-of-good-pairs) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1641-count-sorted-vowel-strings](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1641-count-sorted-vowel-strings) |
@@ -739,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1137-n-th-tribonacci-number) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1478-allocate-mailboxes](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1478-allocate-mailboxes) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1641-count-sorted-vowel-strings](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1641-count-sorted-vowel-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
