@@ -13,7 +13,6 @@ class Solution:
                 for j in range(index, n - curr_k + 1):
                     total = 0
                     mid = (index + j) // 2
-                    print(index, j+1)
                     for i in range(index, j+1):
                         total += abs(houses[i] - houses[mid])
                     res = total + dp[j + 1][curr_k - 1]
