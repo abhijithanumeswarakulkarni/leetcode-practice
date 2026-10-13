@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3668-restore-finishing-order](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3668-restore-finishing-order) |
 | [3696-maximum-distance-between-unequal-words-in-array-i](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3696-maximum-distance-between-unequal-words-in-array-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3731-find-missing-elements) |
 | [3763-maximum-total-sum-with-threshold-constraints](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3763-maximum-total-sum-with-threshold-constraints) |
 | [3860-unique-email-groups](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3860-unique-email-groups) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3446-sort-matrix-by-diagonals](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3446-sort-matrix-by-diagonals) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3731-find-missing-elements) |
 | [3763-maximum-total-sum-with-threshold-constraints](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3763-maximum-total-sum-with-threshold-constraints) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3992-rearrange-string-to-avoid-character-pair) |
@@ -629,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2697-lexicographically-smallest-palindrome](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2864-maximum-odd-binary-number](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2864-maximum-odd-binary-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3763-maximum-total-sum-with-threshold-constraints](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3763-maximum-total-sum-with-threshold-constraints) |
 ## Stack
 |  |
