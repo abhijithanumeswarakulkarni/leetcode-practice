@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-number-of-senior-citizens](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2678-number-of-senior-citizens) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2788-split-strings-by-separator](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2788-split-strings-by-separator) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2465-number-of-distinct-averages) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2716-minimize-string-length](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2716-minimize-string-length) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -1212,6 +1214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0406-queue-reconstruction-by-height) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1409-queries-on-a-permutation-with-key) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Sqrt Decomposition
 |  |
 | ------- |
@@ -1247,4 +1250,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0406-queue-reconstruction-by-height) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
