@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1228-missing-number-in-arithmetic-progression](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1228-missing-number-in-arithmetic-progression) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1254-number-of-closed-islands](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1254-number-of-closed-islands) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1329-sort-the-matrix-diagonally](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1329-sort-the-matrix-diagonally) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0695-max-area-of-island) |
+| [1254-number-of-closed-islands](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1254-number-of-closed-islands) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Two Pointers
 |  |
@@ -794,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-max-increase-to-keep-city-skyline](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0835-image-overlap](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1254-number-of-closed-islands) |
 | [1329-sort-the-matrix-diagonally](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1329-sort-the-matrix-diagonally) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1861-rotating-the-box](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1861-rotating-the-box) |
@@ -960,6 +963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0695-max-area-of-island) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1233-remove-sub-folders-from-the-filesystem) |
+| [1254-number-of-closed-islands](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1254-number-of-closed-islands) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -1021,6 +1025,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0695-max-area-of-island) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1254-number-of-closed-islands) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
