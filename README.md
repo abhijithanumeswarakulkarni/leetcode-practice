@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3668-restore-finishing-order) |
 | [3696-maximum-distance-between-unequal-words-in-array-i](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3696-maximum-distance-between-unequal-words-in-array-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1254-number-of-closed-islands) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1970-last-day-where-you-can-still-cross) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -808,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3446-sort-matrix-by-diagonals](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3446-sort-matrix-by-diagonals) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Simulation
@@ -973,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1676-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3831-median-of-a-binary-search-tree-level](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3831-median-of-a-binary-search-tree-level) |
 ## Binary Tree
 |  |
@@ -1034,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3831-median-of-a-binary-search-tree-level](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3831-median-of-a-binary-search-tree-level) |
 ## Enumeration
 |  |
