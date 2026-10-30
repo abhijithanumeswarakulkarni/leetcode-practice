@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2465-number-of-distinct-averages](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2465-number-of-distinct-averages) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2671-frequency-tracker](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2671-frequency-tracker) |
 | [2716-minimize-string-length](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2716-minimize-string-length) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1570-dot-product-of-two-sparse-vectors) |
 | [1656-design-an-ordered-stream](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1656-design-an-ordered-stream) |
 | [2336-smallest-number-in-infinite-set](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2336-smallest-number-in-infinite-set) |
+| [2671-frequency-tracker](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2671-frequency-tracker) |
 ## Prefix Sum
 |  |
 | ------- |
