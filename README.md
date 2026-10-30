@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3904-smallest-stable-index-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3925-concatenate-array-with-reverse) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
 |  |
 | ------- |
@@ -595,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3865-reverse-k-subarrays](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3865-reverse-k-subarrays) |
 | [3884-first-matching-character-from-both-ends](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3884-first-matching-character-from-both-ends) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Binary Search
 |  |
