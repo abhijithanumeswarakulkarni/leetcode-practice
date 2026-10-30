@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-number-of-senior-citizens](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2678-number-of-senior-citizens) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2788-split-strings-by-separator](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2788-split-strings-by-separator) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2965-find-missing-and-repeated-values) |
@@ -1090,6 +1091,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0266-palindrome-permutation](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0266-palindrome-permutation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3882-minimum-xor-path-in-a-grid) |
