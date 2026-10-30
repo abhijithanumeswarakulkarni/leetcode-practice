@@ -4,7 +4,6 @@ class MyCalendar:
         self.times = []
 
     def book(self, startTime: int, endTime: int) -> bool:
-        # print(self.times)
         can_book = True
         for start, end in self.times:
             if (startTime >= start and startTime < end) or (startTime < start and endTime > start):
