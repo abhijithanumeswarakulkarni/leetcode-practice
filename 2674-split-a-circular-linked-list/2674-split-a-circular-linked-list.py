@@ -20,5 +20,4 @@ class Solution:
             temp = temp.next
         temp.next = second
 
-        # print(head.val, second.val)
         return [head, second]
