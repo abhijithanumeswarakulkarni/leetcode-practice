@@ -37,7 +37,6 @@ class MyCircularQueue:
         return self.idx == self.remove_idx and self.queue[self.idx] == -1
 
     def isFull(self) -> bool:
-        print(self.idx, self.remove_idx, self.queue)
         if self.idx == self.remove_idx and self.queue[self.idx] == -1:
             return False
             
