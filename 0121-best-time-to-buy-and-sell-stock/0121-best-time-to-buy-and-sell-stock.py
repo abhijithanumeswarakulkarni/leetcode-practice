@@ -1,23 +1,10 @@
 class Solution:
-    def maxProfit(self, prices: List[int]) -> int:
-        # # Brute Force - Time = O(n^2), space = O(1) - TLE
-        # n = len(prices)
-        # maxi = 0
-        # for i in range(n-1):
-        #     for j in range(i+1, n):
-        #         maxi = max(maxi, prices[j] - prices[i])
-        # return maxi
-
-        # Sliding window
+    def maxProfit(self, prices: list[int]) -> int:
+        min_so_far, max_profit = float('inf'), 0
         n = len(prices)
-        l, r = 0, 1
-        maxi = 0
-        while r < n:
-            while l < r and prices[r] <= prices[l]:
-                l += 1
-            
-            if l < r:
-                maxi = max(maxi, prices[r] - prices[l])
-            
-            r += 1
-        return maxi
+
+        for i in range(n):
+            min_so_far = min(min_so_far, prices[i])
+            max_profit = max(max_profit, prices[i] - min_so_far)
+        
+        return max_profit
