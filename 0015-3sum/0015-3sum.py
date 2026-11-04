@@ -3,25 +3,29 @@ class Solution:
         nums.sort()
         n = len(nums)
         res = []
-
-        for i in range(n-2):
+        
+        for i in range(n - 2):
             if nums[i] > 0:
                 break
+            
             if i > 0 and nums[i] == nums[i-1]:
                 continue
-            j, k = i + 1, n - 1
+            
+            j = i + 1
+            k = n - 1
+
             while j < k:
-                curr_sum = nums[i] + nums[j] + nums[k]
-                curr_ele = [nums[i], nums[j], nums[k]]
-                if curr_sum == 0:
-                    res.append([nums[i], nums[j], nums[k]])
+                triplet = [nums[i], nums[j], nums[k]]
+                total = sum(triplet)
+                if total == 0:
+                    res.append(triplet)
                     j += 1
                     k -= 1
-                    while j < k and nums[j-1] == nums[j]:
+                    while j < k and nums[j] == nums[j-1]:
                         j += 1
-                elif curr_sum > 0:
-                    k -= 1
-                else:
+                elif total < 0:
                     j += 1
+                else:
+                    k -= 1
         
         return res
