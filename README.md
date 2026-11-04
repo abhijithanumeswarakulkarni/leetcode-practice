@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1046-last-stone-weight) |
+| [1200-minimum-absolute-difference](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1200-minimum-absolute-difference) |
 | [1228-missing-number-in-arithmetic-progression](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1228-missing-number-in-arithmetic-progression) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0846-hand-of-straights) |
 | [0973-k-closest-points-to-origin](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1200-minimum-absolute-difference](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1200-minimum-absolute-difference) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1329-sort-the-matrix-diagonally](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1329-sort-the-matrix-diagonally) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
