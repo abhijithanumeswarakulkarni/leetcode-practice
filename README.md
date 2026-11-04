@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0146-lru-cache) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0169-majority-element](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0169-majority-element) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0170-two-sum-iii-data-structure-design) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0155-min-stack) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0244-shortest-word-distance-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0244-shortest-word-distance-ii) |
@@ -869,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0328-odd-even-linked-list) |
 | [0622-design-circular-queue](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0622-design-circular-queue) |
@@ -1251,6 +1254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0146-lru-cache) |
 | [3263-convert-doubly-linked-list-to-array-i](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3263-convert-doubly-linked-list-to-array-i) |
 | [3294-convert-doubly-linked-list-to-array-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3294-convert-doubly-linked-list-to-array-ii) |
 ## Linear Algebra
