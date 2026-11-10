@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3668-restore-finishing-order) |
+| [3693-climbing-stairs-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3693-climbing-stairs-ii) |
 | [3696-maximum-distance-between-unequal-words-in-array-i](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3696-maximum-distance-between-unequal-words-in-array-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -799,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2979-most-expensive-item-that-can-not-be-bought](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/2979-most-expensive-item-that-can-not-be-bought) |
 | [3032-count-numbers-with-unique-digits-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3032-count-numbers-with-unique-digits-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3693-climbing-stairs-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3693-climbing-stairs-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3882-minimum-xor-path-in-a-grid) |
