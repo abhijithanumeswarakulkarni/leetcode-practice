@@ -681,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3763-maximum-total-sum-with-threshold-constraints](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3763-maximum-total-sum-with-threshold-constraints) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Stack
 |  |
 | ------- |
@@ -751,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3870-count-commas-in-range](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/3871-count-commas-in-range-ii) |
