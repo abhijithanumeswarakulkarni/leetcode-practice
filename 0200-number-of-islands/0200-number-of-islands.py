@@ -6,7 +6,7 @@ class Solution:
 
         def bfs(i, j):
             queue = deque([(i, j)])
-            grid[i][j] == '-1'
+            grid[i][j] = '-1'
             while queue:
                 curr_i, curr_j = queue.popleft()
                 for dire in directions:
