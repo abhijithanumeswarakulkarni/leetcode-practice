@@ -717,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/abhijithanumeswarakulkarni/leetcode-practice/tree/master/0189-rotate-array) |
