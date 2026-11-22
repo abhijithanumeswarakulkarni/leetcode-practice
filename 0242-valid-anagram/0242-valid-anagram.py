@@ -1,23 +1,14 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        # # Brute force - Time = O(n*log(n)), space = O(1)
-        # sorted_s = str(sorted(s))
-        # sorted_t = str(sorted(t))
-        # return sorted_s == sorted_t
+        frq_s = Counter(s)
+        frq_t = Counter(t)
+        return frq_s == frq_t
+        # print(frq_s, frq_t, frq_s == frq_t)
 
-        #Freq count - Time = O(n), space = O(n)
-        from collections import Counter
+        # for key, value in frq_s.items():
+        #     if key not in frq_t or value != frq_t[key]:
+        #         return False
+            
+        #     del frq_t[key]
         
-        # Edge case - If lengths don't match
-        if len(s) != len(t):
-            return False
-
-        s_freq = Counter(s)
-        t_freq = Counter(t)
-        for char in s:
-            if s_freq[char] == t_freq[char]:
-                del s_freq[char]
-                del t_freq[char]
-            else:
-                return False
-        return True if (len(s_freq) == 0 and len(t_freq) == 0) else False
+        # return True if frq_t else False
