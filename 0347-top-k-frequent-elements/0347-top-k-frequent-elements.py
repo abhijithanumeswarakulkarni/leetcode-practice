@@ -1,18 +1,12 @@
 class Solution:
     def topKFrequent(self, nums: list[int], k: int) -> list[int]:
-        frq = Counter(nums)
-        
-        # Option 1 - Time = O(n), space = O(n)
-        # heap = list(map(lambda item: (-item[1], item[0]), frq.items()))
-        # heapq.heapify(heap)
-        # res = []
+        frq = Counter(nums).items()
+        rev_frq = [(-val, key) for key, val in frq]
+        heapq.heapify(rev_frq)
 
-        # while k > 0:
-        #     res.append(heapq.heappop(heap)[1])
-        #     k -= 1
+        res = []
+        for _ in range(k):
+            _, val = heapq.heappop(rev_frq)
+            res.append(val)
         
-        # return res
-        # Option 2 - Time = O(n*log(n)), space = O(n)
-        sorted_frq = list(sorted(frq.items(), key = lambda item: item[1], reverse = True))
-        res = list(map(lambda item: item[0], sorted_frq[:k]))
         return res
